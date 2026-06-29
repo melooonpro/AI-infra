@@ -1,8 +1,8 @@
 # AI-infra
 
-一个中文 AI 知识库网页，整理牛哥趣讲AI主页中的 AI 基础、Skill、Agent、RAG、Vibe Coding 和提示词写作内容。
+一个中文 AI 基础知识文字版网页，系统整理模型、Token、向量、提示词、Skill、Tool、MCP、CLI、RAG、Agent 和 Vibe Coding。
 
-页面采用企业知识库/解决方案页布局，包含学习路径、知识体系、RAG 专题、Agent 能力栈和视频索引。
+页面采用技术文档布局，包含章节目录、核心概念对照、长文正文、术语速查和内容覆盖清单。
 
 ## 本地运行
 
